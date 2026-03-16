@@ -1,9 +1,9 @@
 Ports	Services	
-2375	Docker	
+2375	Docker
 2376	Docker
 4242	OpenTSDB
 443	WebLogic,Shellshock,PeopleSoft,ApacheStruts,JBoss,Confluence,Jira,Bamboo,Bitbucket,Crowd,Crucible,Fisheye,Jenkins,HystrixDashboard,W3TotalCache,ApacheTomcat,FastCGI
-6379	Redis	
+6379	Redis
 80	Confluence,Jira,Bamboo,Bitbucket,Crowd,Crucible,Fisheye,Jenkins,HystrixDashboard,W3TotalCache,ApacheTomcat,FastCGI
 8080	Confluence,Jira,Bamboo,Bitbucket,Crowd,Crucible,Fisheye,Jenkins,HystrixDashboard,ApacheTomcat
 8082	ApacheDruid
